@@ -1,0 +1,6 @@
+default_env: development
+default: &default
+  adapter: sqlite3
+  database: records.sqlite3
+development:
+  <<: *default

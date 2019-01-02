@@ -1,0 +1,2 @@
+class CaloriesCommand < MaxCommand
+end

@@ -1,0 +1,1154 @@
+main.rb: process with pid 17971 started.
+/home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load': /home/ubuntu/telegrambot/main.rb:257: syntax error, unexpected '}', expecting ')' (SyntaxError)
+...name(__FILE__),'imgs',imgname)})
+...                               ^
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from telegrambot.rb:8:in `<main>'
+main.rb: process with pid 18035 started.
+main.rb: process with pid 19601 started.
+main.rb: process with pid 22679 started.
+254113
+/home/ubuntu/telegrambot/main.rb:292:in `block (2 levels) in <top (required)>': undefined method `+' for nil:NilClass (NoMethodError)
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:42:in `block in fetch_updates'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:37:in `each'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:37:in `fetch_updates'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:29:in `listen'
+	from /home/ubuntu/telegrambot/main.rb:55:in `block in <top (required)>'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:22:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.4.0/lib/telegram/bot/client.rb:10:in `run'
+	from /home/ubuntu/telegrambot/main.rb:53:in `<top (required)>'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/ubuntu/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from telegrambot.rb:8:in `<main>'
+main.rb: process with pid 23419 started.
+254113
+254113
+72940334
+72940334
+254113
+254113
+254113
+main.rb: process with pid 21773 started.
+254113
+main.rb: process with pid 24120 started.
+/home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- ./lib/drawer.rb (LoadError)
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/fatloris/work/telebot-v2/main.rb:1:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:8:in `<main>'
+main.rb: process with pid 24177 started.
+/home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- ./lib/drawer.rb (LoadError)
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/fatloris/work/telebot-v2/main.rb:1:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:8:in `<main>'
+main.rb: process with pid 24207 started.
+/home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require': cannot load such file -- ./lib/drawer.rb (LoadError)
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+	from /home/fatloris/work/telebot-v2/main.rb:1:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:8:in `<main>'
+/
+ruby: No such file or directory -- main.rb (LoadError)
+main.rb: process with pid 24688 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:8:in `<main>'
+main.rb: process with pid 24754 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:11:in `<main>'
+main.rb: process with pid 24778 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:11:in `<main>'
+main.rb: process with pid 24797 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:11:in `<main>'
+main.rb: process with pid 24850 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:10:in `<main>'
+main.rb: process with pid 24884 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:10:in `<main>'
+main.rb: process with pid 24909 started.
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/locale.rb:11:in `initialize': No such file or directory @ rb_sysopen - ./bases/locale.yaml (Errno::ENOENT)
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `open'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:11:in `setup'
+	from /home/fatloris/work/telebot-v2/lib/locale.rb:6:in `initialize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `new'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:142:in `block in instance'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `synchronize'
+	from /home/fatloris/.rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/singleton.rb:140:in `instance'
+	from /home/fatloris/work/telebot-v2/main.rb:44:in `<top (required)>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:218:in `start_load'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/application.rb:297:in `start'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/controller.rb:56:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:144:in `block in run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons/cmdline.rb:88:in `catch_exceptions'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/daemons-1.2.3/lib/daemons.rb:143:in `run'
+	from daemon.rb:10:in `<main>'
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+[1] pry(#<CommandParser>)> 
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0GWARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+[1] pry(#<CommandParser>)> [1] pry(#<CommandParser>)> [1] pry(#<CommandParser>)> 
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0G
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0G
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0GWARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+[1] pry(#<CommandParser>)> [1] pry(#<CommandParser>)> 
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0G
+[1mFrom:[0m /home/fatloris/work/telebot-v2/lib/command_parser.rb @ line 9 CommandParser#parse:
+
+     [1;34m7[0m: [32mdef[0m [1;34mparse[0m
+     [1;34m8[0m:   @command_name = pull_first_word message_text
+ =>  [1;34m9[0m:   binding.pry
+    [1;34m10[0m:   [32mif[0m command_class_exists?
+    [1;34m11[0m:     result_hash = {
+    [1;34m12[0m:       [35mcommand_attributes[0m: get_attributes_depending_on_class,
+    [1;34m13[0m:       [35mcommand_name[0m: command_name
+    [1;34m14[0m:     }
+    [1;34m15[0m:   [32melse[0m
+    [1;34m16[0m:     raise [1;34;4mNoCommandError[0m
+    [1;34m17[0m:   [32mend[0m
+    [1;34m18[0m: [32mend[0m
+
+[0GWARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/info_command.rb:13:in `execute': undefined local variable or method `environment' for #<InfoCommand:0x00000001f47da0> (NameError)
+Did you mean?  @environment
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "409", description: "[Error : 409 : Conflict: terminated by other long poll or webhook]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:32:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "409", description: "[Error : 409 : Conflict: terminated by other long poll or webhook]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:32:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+lang
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute': undefined method `send_text' for HotBot:Class (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Message text is empty]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute'
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Message text is empty]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute'
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Message text is empty]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute'
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Message text is empty]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute'
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute': undefined method `[]' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Message text is empty]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/commands/help_command.rb:19:in `execute'
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+
+
+lang
+
+
+
+
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:12:in `execute': undefined method `empty?' for nil:NilClass (NoMethodError)
+	from /home/fatloris/work/telebot-v2/lib/command_handler.rb:11:in `execute'
+	from main.rb:69:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Can't parse message text: Can't find end of the entity starting at byte offset 17]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:18:in `rescue in parse'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:13:in `parse'
+	from main.rb:61:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Can't parse message text: Can't find end of the entity starting at byte offset 17]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:18:in `rescue in parse'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:13:in `parse'
+	from main.rb:61:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Can't parse message text: Can't find end of the entity starting at byte offset 17]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:18:in `rescue in parse'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:13:in `parse'
+	from main.rb:61:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:65:in `call': Telegram API has returned the error. (ok: "false", error_code: "400", description: "[Error : 400 : Bad Request: Can't parse message text: Can't find end of the entity starting at byte offset 17]") (Telegram::Bot::Exceptions::ResponseError)
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/api.rb:49:in `method_missing'
+	from /home/fatloris/work/telebot-v2/lib/hot_bot.rb:24:in `send'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:18:in `rescue in parse'
+	from /home/fatloris/work/telebot-v2/lib/message_parser.rb:13:in `parse'
+	from main.rb:61:in `block (2 levels) in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'
+	from main.rb:53:in `block in <main>'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'
+	from /home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'
+	from main.rb:51:in `<main>'
+
+undefined method `empty?' for nil:NilClass
+["/home/fatloris/work/telebot-v2/lib/commands/help_command.rb:4:in `parse'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:42:in `parse_attribute_line_depending_on_command'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:38:in `get_attributes_depending_on_class'", "/home/fatloris/work/telebot-v2/lib/command_parser.rb:11:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+WARN: Unresolved specs during Gem::Specification.reset:
+      unf_ext (>= 0)
+      minitest (~> 5.1)
+WARN: Clearing out unresolved specs.
+Please report a bug if this causes problems.
+
+NoCommandError
+["/home/fatloris/work/telebot-v2/lib/command_parser.rb:15:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]
+InputDataError
+["/home/fatloris/work/telebot-v2/lib/commands/add_record_command.rb:18:in `parse'", "/home/fatloris/work/telebot-v2/lib/record_parser.rb:8:in `parse'", "/home/fatloris/work/telebot-v2/lib/message_parser.rb:14:in `parse'", "main.rb:61:in `block (2 levels) in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:40:in `block in fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `each'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:35:in `fetch_updates'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:27:in `listen'", "main.rb:53:in `block in <main>'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:20:in `run'", "/home/fatloris/.rvm/gems/ruby-2.3.0@global/gems/telegram-bot-ruby-0.5.0/lib/telegram/bot/client.rb:8:in `run'", "main.rb:51:in `<main>'"]

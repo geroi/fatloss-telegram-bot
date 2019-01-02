@@ -1,0 +1,152 @@
+ru:
+  help_message: |+
+    Для сохранения приема пищи введите: 
+    *названиепродукта* _вес_
+    Пример:
+    *творог* _200_
+    Для помощи по остальным командам введите help и название команды из списка ниже:
+  example: 'Пример:'
+  help_entries:  
+    lang:
+      input: '/lang ru'
+      text: 'Команда позволяет выставить язык интерфейса. По умолчанию выбран русский язык'
+    start:
+      input: '/start'
+      text: 'Команда выведет приветственное сообщение с ссылкой на видеоинструкцию'
+    info:
+      input: '/info курица'
+      text: 'Информация об энергетической ценности продукта. Поиск производится по целому слову, а также по его части'
+    add:
+      input: '/add сникерс 4 18 68 453 55гр/шт'
+      text: 'добавление собственного продукта в базу данных. Для того, чтобы добавить продукт, необходимо ввести информацию о его энергетической ценности в формате /add Название продукта P F C (K) (G)гр/шт. Где P , F , С- граммы белка, жира, углеводов соответственно на 100 граммов, (K) - калорийность на 100 граммов (необязательно). (G) - вес единицы продукта, например, среднее яблоко весит 150гр/шт, обязательно после числа добавлять гр/шт.'
+    delete:
+      input: '/delete'
+      text: 'выводит список 5 последних записей о приеме пищи, со временем приема, количеством еды'
+    del:
+      input: '/del 21:55 мороженое #1'
+      text: 'удаление конкретного приема пищи. Cписок приемов пищи можно получить, введя команду delete'
+    carbs:
+      input: '/carbs 67'
+      text: 'пользователь выставляет максимальное количество углеводов в граммах, которое можно потребить в день'
+    fats:
+      input: '/fats 67'
+      text: 'пользователь выставляет максимальное количество жиров в граммах, которое можно потребить в день'
+    proteins:
+      input: '/proteins 67'
+      text: 'пользователь выставляет максимальное количество белков в граммах, которое можно потребить в день'
+    max:
+      input: '/max 1800'
+      text: 'пользователь выставляет максимальное количество калорий, которое можно употребить в день'
+    today:
+      input: '/today'
+      text: 'выводит энергетическую ценность потребленной за сегодняшний день пищи. Если выставить максимальные уровни потребления белков, жиров и углеводов, также выводит графики потребления'
+    list:
+      input: '/list'
+      text: 'выводит список продуктов, которые имеются в базе'
+    mylist:
+      input: '/mylist'
+      text: 'выводит список продуктов, добавленных пользвателем'
+  successfully_added: успешно добавлена
+  input_error: Ошибка ввода
+  several_found: 'Найдено несколько продуктов, выберите один:'
+  no_g_per_piece: Не имеет значения гр/шт, введите массу в граммах
+  piece: шт
+  you_ate: Вы съели
+  grams: грамм
+  no_product: Продукта нет в нашей базе, но вы можете его добавить с помощью команды /add. Для помощи наберите /help
+  command_list: Список команд
+  grams_per_piece: 'грамм/шт'
+  choose_record_to_delete: "Выберите запись для удаления"
+  lang_set_succ: Язык успешно изменен
+  lang_set_err: 'К сожалению, такого языка нет'
+  proteins: 'Белки'
+  carbs: 'Углеводы'
+  fats: 'Жиры'
+  calories: 'Калории'
+  weights_one_piece: 'Вес 1 шт'
+  for_today: За сегодня
+  consumption_maximum: 'Потребление/Максимум (в граммах)'
+  no_private_products: 'К сожалению, Вы еще не добавили никаких продуктов'
+  max_calories_set: 'Вы выставили дневной максимум калорий'
+  max_proteins_set: 'Вы выставили дневной максимум белков'
+  max_fats_set: 'Вы выставили дневной максимум жиров'
+  max_carbs_set: 'Вы выставили дневной максимум углеводов'
+  today_consumption: 'Потребление на сегодня'
+  hello: 'Привет'
+  greetings_message: 'Добро пожаловать в дневник питания @FoodBot. Для получения списка команд наберите /help. Также вы можете посмотреть инструкцию https://youtu.be/D7EIuNzHOyg или посетите www.fatlossbot.ru для более подробного описания'
+en:
+  help_message: |+
+    To memorize a meal: 
+    *productname* _weight_
+    Example:
+    *cheese* _200_
+    For help on the other commands type /help _command_ from the list below:
+  example: 'Example:'
+  help_entries:  
+    lang:
+      input: '/lang en'
+      text: 'Language setup. Default: russian'
+    start:
+      input: '/start'
+      text: 'Greetings message'
+    info:
+      input: '/info _cheese_'
+      text: 'Nutrition facts about _cheese_. You can search using the part of the word *e.g.* _chee_'
+    add:
+      input: '/add snickers 4 18 68 453 55g/pc'
+      text: 'Adding your own product to the database. To add product, provide the nutrition facts in format: */add* _product_ _p_ _f_ _c_ (_cal_) (W g/pc). Where p - proteins, f - fats, c - carbohydrates, (cal) - calories per 100g (optionally). (W g/pc) - net weight per 1 piece, e.g. When using (W g/pc) - it is neccessary to add "g/pc" after W '
+    delete:
+      input: '/delete'
+      text: 'Shows last 5 meals'
+    del:
+      input: '/del 21:55 ice cream #1'
+      text: 'Delete specific meal. To show meals, use /delete'
+    carbs:
+      input: '/carbs 67'
+      text: 'Set daily maximum for carbs'
+    fats:
+      input: '/fats 67'
+      text: 'Set daily maximum for fats'
+    proteins:
+      input: '/proteins 67'
+      text: 'Set daily maximum for proteins'
+    max:
+      input: '/max 1800'
+      text: 'Set daily maximum for calories'
+    today:
+      input: '/today'
+      text: 'Show consumption stats for today. If maximum carbs, proteins, fats or calories are set up, shows diagrams'
+    list:
+      input: '/list'
+      text: 'Listing all the products from database'
+    mylist:
+      input: '/mylist'
+      text: 'Listing all user products'
+  successfully_added: successfully added
+  input_error: Input error
+  several_found: 'Several products has found, please choose only one:'
+  no_g_per_piece: has no info about g/pc, please enter net weight
+  piece: шт
+  you_ate: You\'ve ate
+  grams: gram
+  no_product: There is no such food in our DB, but you cat add it with the /add command. For help type /help
+  command_list: Command list
+  grams_per_piece: 'gr/pc'
+  choose_record_to_delete: Choose record to delete
+  lang_set_succ: Language successfully changed
+  lang_set_err: 'Sorry, no such language'
+  proteins: 'Proteins'
+  carbs: 'Carbs'
+  fats: 'Fats'
+  calories: 'Calories'
+  weights_one_piece: 'Net weight for 1 pc.'
+  for_today: For today
+  consumption_maximum: 'Consumption/Maximum (grams)'
+  no_private_products: 'Unfortunately, you have not added any product'
+  max_calories_set: 'You have set your daily maximum of calories'
+  max_proteins_set: 'You have set your daily maximum of proteins'
+  max_fats_set: 'You have set your daily maximum of fats'
+  max_carbs_set: 'You have set your daily maximum of carbs'
+  today_consumption: 'Today consumption'
+  hello: 'Hello'
+  greetings_message: 'Welcome to the @foodbot food diary. If you need help, please type /help. Or you can watch the short but full tutorial at https://youtu.be/D7EIuNzHOyg or visit the www.fatlossbot.ru.'
